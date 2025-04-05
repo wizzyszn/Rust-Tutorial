@@ -2,6 +2,8 @@ mod variables;
 mod constants;
 mod shadowing;
 mod data_types;
+mod functions;
+mod branches;
 fn main() {
     //cargo check for compiling
     //cargo run for compiling and excuting
